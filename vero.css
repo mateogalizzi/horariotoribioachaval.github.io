@@ -1,0 +1,56 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f0f0f0;
+    padding: 20px;
+}
+
+h1 {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+button {
+    margin-bottom: 20px;
+    padding: 10px 20px;
+    background-color: #007bff;
+    color: white;
+    border: none;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #0056b3;
+}
+
+#horario {
+    margin-top: 20px;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-bottom: 20px;
+    border: 2px solid #d9534f; /* Borde rojo */
+}
+
+table caption {
+    font-size: 1.2em;
+    font-weight: bold;
+    margin-bottom: 10px;
+}
+
+table th, table td {
+    border: 1px solid #d9534f; /* Borde rojo */
+    padding: 10px;
+}
+
+table th {
+    background-color: #d9534f; /* Fondo rojo */
+    color: white;
+}
+
+table td {
+    color: black; /* Texto negro */
+    font-weight: bold;
+}
+
